@@ -55,6 +55,6 @@ https://docs.phpmyadmin.net/fr/latest/setup.html
 
 ## Contact
 
-Cédric Deperne - [cedric@deperne.fr(cedric@deperne.fr)
+Cédric Deperne - cedric@deperne.fr
 
 Project Link: [https://github.com/Drx85/p4_uml_expressfood](https://github.com/Drx85/p4_uml_expressfood)
